@@ -1,4 +1,12 @@
 ## Hi there 👋
+I'm James, a self taught Data Analyst and Python/SQL enthusiast. 
+
+**Quick About Me:**
+
+-🥼 Chemistry and Pharmaceutical background with 10 years of experience.
+
+-📊 Tranition to Data Analytics in 2024.
+
 
 <!--
 **jpaletski/jpaletski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
