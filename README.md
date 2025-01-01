@@ -5,20 +5,23 @@ I'm James, a self taught Data Analyst and Python/SQL enthusiast.
 
 -🥼 Chemistry and Pharmaceutical background with 10 years of experience.
 
--📊 Tranition to Data Analytics in 2024.
+-📊 Transition to Data Analytics in 2024.
 
 
-<!--
-**jpaletski/jpaletski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Table of Contents**
 
-Here are some ideas to get you started:
+**Portfolio Porjects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Education**
+
+**Certificates/Courses**
+
+**Contacts**
+
+
+
+
+- My Portfolio projects are in:
+- My Tableau projects are in: 
+
+
